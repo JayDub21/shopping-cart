@@ -1,3 +1,5 @@
+import React from 'react';
+
 const NavBar = ({ totalCounters }) => {
   return (
     <nav className='navbar navbar-light bg-light'>
